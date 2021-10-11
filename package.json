@@ -1,0 +1,10 @@
+{
+  "name": "@aduyng/realtime-progress-sample",
+  "version": "1.0.0",
+  "description": "A sample implementation of realtime background progress",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Duy Nguyen <aduyng@gmail.com>",
+  "license": "MIT"
+}
